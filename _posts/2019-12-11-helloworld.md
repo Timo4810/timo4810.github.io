@@ -4,6 +4,6 @@ title: Hello, world.
 
 Hello, 
 
--more-
+<!--more-->
 
 world.
