@@ -20,13 +20,14 @@
     {%- endif -%}
 
     {%- include snippets/get-locale-string.html key='EMAIL_ME' -%}
-    {%- if _author.email -%}
-      <li title="{{ _locale_string_email }}">
-      <a class="button button--circle mail-button" itemprop="email" href="mailto:{{ _author.email }}" target="_blank">
-        <i class="fas fa-envelope"></i>
-      </a>
-    {%- endif -%}
 
+    {%- if _author.steam -%}
+      <li title="{{ _locale_string_follow | replace: '[NAME]', 'Steam' }}">
+        <a class="button button--circle steam-button" itemprop="sameAs" href="https://steamcommunity.com/id/{{ _author.steam }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/steam.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
 
     {%- if _author.facebook -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Facebook' }}">
@@ -116,5 +117,11 @@
       </li>
     {%- endif -%}
 
+    {%- if _author.email -%}
+      <li title="{{ _locale_string_email }}">
+      <a class="button button--circle mail-button" itemprop="email" href="mailto:{{ _author.email }}" target="_blank">
+        <i class="fas fa-envelope"></i>
+      </a>
+    {%- endif -%}
   </ul>
 </div>
