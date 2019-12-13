@@ -9,6 +9,7 @@ article_header:
     type: cover
     image:
         src: /assets/images/贾·莫兰特.jpg
+license: false
 ---
 
 我特别想谈一谈他的原因在于，他属于是在篮球场人堆里“普通”身形球员，却有着迈向超巨的潜力。
