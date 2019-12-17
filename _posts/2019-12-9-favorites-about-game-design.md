@@ -6,6 +6,10 @@ tag:
     - 收藏夹
 ---
 
+记点游戏制作相关的有意思的东西，有开发也有设计。
+
+<!--more-->
+
 * [Unity 2D AI自动寻路功能 astar pathfinding](https://www.bilibili.com/video/av55205727)
     * 3d也可以用，而且可以与物理系统交互
 
@@ -19,7 +23,8 @@ tag:
         * 颜色变化
 
 * [Visionaire Studio 点击冒险游戏引擎](https://indienova.com/indie-game-development/visionaire-studio-for-beginner-1/)
-![title](leanote://file/getImage?fileId=5ded2673ab644149510074d8)
+
+![Image](https://hive.indienova.com/farm/article/picture/2019/05/pic-vs-1-demo66168R.jpg_webp){:.rounded}
 
 * 文字游戏引擎*ink*
     * [文字游戏引擎 ink 初探（上）：初步了解](https://indienova.com/indie-game-development/sneak-peak-of-ink-markup-language-1/)
