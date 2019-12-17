@@ -1,9 +1,10 @@
 ---
 layout: article
-title: Unity<del>笔记本<\del>收藏夹
+title: Unity <del>笔记本</del>收藏夹
 tag:
     - 游戏制作
     - Unity
+    - 收藏夹
 ---
 
 由于Okami很懒，他只记不太好搜的。
