@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Unity <del>笔记本</del>收藏夹
+title: Unity 笔记本
 tag:
     - 游戏制作
     - Unity
