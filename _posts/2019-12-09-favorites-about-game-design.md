@@ -24,7 +24,7 @@ tag:
 
 * [Visionaire Studio 点击冒险游戏引擎](https://indienova.com/indie-game-development/visionaire-studio-for-beginner-1/)
 
-![Image](https://hive.indienova.com/farm/article/picture/2019/05/pic-vs-1-demo66168R.jpg_webp){:.rounded}
+![Image](/assets/images/visionaire.jpg_webp){:.rounded}
 
 * 文字游戏引擎*ink*
     * [文字游戏引擎 ink 初探（上）：初步了解](https://indienova.com/indie-game-development/sneak-peak-of-ink-markup-language-1/)
