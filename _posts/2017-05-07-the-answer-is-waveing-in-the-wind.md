@@ -3,7 +3,7 @@ layout: article
 author: 王启超
 title: 答案在风中飘荡
 tag:
-    - 纪实
+    - 散文
     - 其他作者
 license: false
 ---

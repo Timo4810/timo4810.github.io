@@ -4,6 +4,7 @@ author: 许增昊
 title: 贾·莫兰特，身高191cm，体重79kg。
 tag:
     - 体育
+    - 评论
     - 其他作者
 article_header:
     type: cover
