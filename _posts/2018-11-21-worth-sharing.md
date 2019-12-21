@@ -160,8 +160,10 @@ PKUSC化院大牛向同学们征集几个关键词，他要现场编个故事，
 ## 2019.3.24
 很久没有更了，而且频率没有跟上。我知道除了我没有人看，但是我还是为鸽了很久而内疚。
 
-* http://www.qdaily.com/articles/62215.html
+* [在亲密关系中，你想过控制嫉妒，培养“同喜”吗？](http://www.qdaily.com/articles/62215.html)
+
 2019年3月24日13点32分
+
 > 最后，嫉妒之所以能成为表现关心在乎情绪的指向标，原因仅仅在于我们经营亲密关系时难以理解对方，难以就各自的情绪问题展开交流沟通。在很多人对浪漫感情的定义中，理想的相处模式都是含蓄不语和欲说还休，而不是直抒胸臆和坦诚相待。在很多人对阳刚气质的定义中，善于自我反省和清楚表达情绪都不是真正男子气概的核心构成要素。当我们对社会的规范和理念产生质疑时（我们的确应该这样做），我们就会发现有一种方式能够更好地表达内心的爱意：大胆说出来。
 
 ## 2019.3.19
@@ -169,13 +171,17 @@ PKUSC化院大牛向同学们征集几个关键词，他要现场编个故事，
 * From *In Dialogue with Nature* : Text 7 *from Science and Method I.THE SELECTION OF FACTS* by Henri Poincaré
 > It is with regular facts, therefore, that we ought to begin; but as soon as the rule is well established, as soon as it is no longer in doubt, the facts which are in complete conformity with it lose their interest, since they can teach us nothing new. Then it is the exception which becomes important. We cease to look for resemblances, and apply ourselves before all else to differences, and of these differences we select first those that are most accentuated, not only because they are the most striking, but because they will be the most instructive. 
 
-* http://www.qdaily.com/articles/62065.html
+* [那个著名的令人炫目的克莱因蓝，现在你可以把它带回卧室](http://www.qdaily.com/articles/62065.html)
+
 2019年3月17日12点28分
+
 > 伊夫·克莱因相信，蓝色是自然界中最抽象的事物，天空与大海的代表，其他颜色则会让人产生过于具体的联想。
 
 
-* http://www.qdaily.com/articles/62103.html
+* [AirPods，打火机的远房兄弟 | 好奇心辞典](http://www.qdaily.com/articles/62103.html)
+
 2019年3月16日18点49分
+
 > 【猥琐食堂】餐饮界是到底从哪学来的坏风气，要把纸巾和一次性手套包装成安全套模样，正经人的食欲都为此而降低。本来以为这种自作聪明的猥琐事，只有杜蕾斯的文案们才喜欢干，怎么现在连你们也要来抢他们的饭碗？
 
 ## 2019.3.16
@@ -216,8 +222,8 @@ Kindle标注消耗得比我设想的要快，而这些天来我又没怎么读�
 
 
 * From *Fahrenheit 451* by Bradbury, Ray
-> "People don't talk about anything." "Oh, they must!"
- "No, not anything. They name a lot of cars or clothes or swimming pools mostly and say how swell! But they all say the same things and nobody says anything different from anyone else. And most of the time in the caves they have the joke-boxes on and the same jokes most of the time, or the musical wall lit and all the colored patterns running up and down, but it's only color and all abstract. And at the museums, have you ever been? All abstract. That's all there is now. My uncle says it was different once. A long time back sometimes pictures said things or even showed people." 
+> "People don't talk about anything." "Oh, they must!"<br>
+"No, not anything. They name a lot of cars or clothes or swimming pools mostly and say how swell! But they all say the same things and nobody says anything different from anyone else. And most of the time in the caves they have the joke-boxes on and the same jokes most of the time, or the musical wall lit and all the colored patterns running up and down, but it's only color and all abstract. And at the museums, have you ever been? All abstract. That's all there is now. My uncle says it was different once. A long time back sometimes pictures said things or even showed people." 
 
 * From *Fahrenheit 451* by Bradbury, Ray
 > Bigger the population, the more minorities. 
@@ -228,11 +234,11 @@ Kindle标注消耗得比我设想的要快，而这些天来我又没怎么读�
 > “世界不分内外的呀。这世界只有一个。”
 
 * From *一个人的好天气* by 青山七惠
-> “喂，我走了以后，你会挂我的照片吗？”
-“你又不是猫。”
-“挂上吧。”
-“又没有死，不能挂。”
-“可是，不挂上的话，该把我忘了吧。”
+> “喂，我走了以后，你会挂我的照片吗？”<br>
+“你又不是猫。”<br>
+“挂上吧。”<br>
+“又没有死，不能挂。”<br>
+“可是，不挂上的话，该把我忘了吧。”<br>
 “回忆不在照片里啊。”
 
 * From *皮囊* by 蔡崇达
@@ -247,7 +253,7 @@ Kindle标注消耗得比我设想的要快，而这些天来我又没怎么读�
 > 我深确地信不论是人情，是物景，到了“尽头”处，是万万说不出来，写不出来的。纵然几番提笔，几番欲说，而语言文字之间，只是搜寻不出配得上形容这些情绪景物的字眼，结果只是搁笔，只是无言。十分不甘泯没了这些情景时，只能随意描摹几个字，稍留些印象。甚至于不妨如古人之结绳记事一般，胡乱画几条墨线在纸上。只要他日再看到这些墨迹时，能在模糊飘渺的意境之中，重现了一番往事，已经是满足有余的了。
 
 * From *一个人的好天气* by 青山七惠
-> “上年纪的人都这么想吗？年轻真有那么好吗？我每件事都要难过，悲观，太累了。我厌倦了。”
+> “上年纪的人都这么想吗？年轻真有那么好吗？我每件事都要难过，悲观，太累了。我厌倦了。”<br>
 “这是因为年轻的时候大家都是拼命地伸出手想要什么，到了我这个岁数，想伸手要的越来越少了。”
 
 ## 2019.2.28
@@ -303,15 +309,15 @@ From *An Introduction to Game Studies*
 
 ---
 
-> Box 1.1 GAME STUDIES RESOURCES ONLINE
-Digital Games Research Association – DiGRA: www.digra.org 
-DiGRA conferences: www.gamesconference.org 
-International Simulation & Gaming Association – ISAGA: www.isaga.info 
-Game Studies Journal: www.gamestudies.org 
-Games and Culture Journal: www.gamesandculture.com 
-Journal of Game Development: www.jogd.com 
-Digiplay Initiative: www.digiplay.org.uk 
-Game Research website: www.game-research.com 
+> Box 1.1 GAME STUDIES RESOURCES ONLINE<br>
+Digital Games Research Association – DiGRA: www.digra.org<br>
+DiGRA conferences: www.gamesconference.org<br>
+International Simulation & Gaming Association – ISAGA: www.isaga.info<br>
+Game Studies Journal: www.gamestudies.org<br>
+Games and Culture Journal: www.gamesandculture.com<br>
+Journal of Game Development: www.jogd.com<br>
+Digiplay Initiative: www.digiplay.org.uk<br>
+Game Research website: www.game-research.com<br>
 For more online sources, see the companion website www.gamestudiesbook.net
 
 ## 2018.11.30
@@ -323,9 +329,9 @@ For more online sources, see the companion website www.gamestudiesbook.net
 
 ### comment on a piece of sport news
 
-> 原标题：苏州马拉松争议一幕！中国选手冲刺争冠，志愿者递国旗干扰
-来源：中国日报
-[苏州马拉松争议一幕！中国选手冲刺争冠，志愿者递国旗干扰]11月18日，苏州马拉松开跑。中国选手何引丽与非洲选手争夺冠军时，志愿者却上前递国旗，打乱何引丽节奏，导致她被拉开距离，遗憾获得亚军。视频显示在何引丽接国旗后，国旗从手中滑落。对此@何引丽的微博 回应称当时“胳膊僵了，摆臂的时候甩出去了，很抱歉”。
+> 原标题：苏州马拉松争议一幕！中国选手冲刺争冠，志愿者递国旗干扰<br>
+来源：中国日报<br>
+[苏州马拉松争议一幕！中国选手冲刺争冠，志愿者递国旗干扰]11月18日，苏州马拉松开跑。中国选手何引丽与非洲选手争夺冠军时，志愿者却上前递国旗，打乱何引丽节奏，导致她被拉开距离，遗憾获得亚军。视频显示在何引丽接国旗后，国旗从手中滑落。对此@何引丽的微博 回应称当时“胳膊僵了，摆臂的时候甩出去了，很抱歉”。<br>
 [自新浪新闻综合，访问于2018.11.21 11:48](https://news.sina.cn/2018-11-19/detail-ihmutuec1471249.d.html)
 
 * 在中国，一个人，他先是一个人，再是一个中国人。
