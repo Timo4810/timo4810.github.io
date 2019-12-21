@@ -4,7 +4,7 @@ title: Unity 笔记本
 tag:
     - 游戏制作
     - Unity
-    - 收藏夹
+    - 集合
 ---
 
 由于Okami很懒，他只记不太好搜的。
