@@ -6,7 +6,11 @@ tag:
 mathjax: true
 ---
 
+高中时期参与作文竞赛的小作文。
+
 <!--more-->
+
+---
 
 ## Why Is Video Game The Ninth Form of Art?
 
