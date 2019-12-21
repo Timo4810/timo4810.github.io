@@ -3,10 +3,12 @@ layout: article
 title: Why Is Video Game The Ninth Form of Art?
 tag:
     - 散文
+mathjax: true
 ---
 
+<!--more-->
 
-## Why Is Video Game The Ninth Form of Art
+## Why Is Video Game The Ninth Form of Art?
 
 Today more and more people are fond of video games, but only few people know that game is widely accepted as the ninth kind of art. Actually, on May $9^{th}\,2011$, the US National Endowment for the Arts announced officially that video game is a form of art. Now, let me tell you why video game is valuable enough to be called a form of art.
 
