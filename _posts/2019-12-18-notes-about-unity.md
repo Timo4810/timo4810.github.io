@@ -14,6 +14,44 @@ tag:
 内容按添加时间的倒序排列。
 
 ---
+## Unity 2D下固定Camera显示的场景宽度
+
+见链接中2017.03.28的回答
+[Fixed width, relative height, on different aspect ratio screen?](https://answers.unity.com/questions/778670/fixed-width-relative-height-on-different-aspect-ra.html)
+
+直接将以下脚本拖到Camera上
+
+```csharp
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class CameraController : MonoBehaviour
+{
+    //Set a fixed horizontal FOV
+    public float horizontalFOV = 120f;
+    //somewhere in update if screen is resizable
+    Camera cam;
+
+    void Awake()
+    {
+        cam = GetComponent<Camera>();
+    }
+
+    void FixedUpdate()
+    {
+        cam.fieldOfView = calcVertivalFOV(horizontalFOV, Camera.main.aspect);
+    }
+
+    private float calcVertivalFOV(float hFOVInDeg, float aspectRatio)
+    {
+        float hFOVInRads = hFOVInDeg * Mathf.Deg2Rad;
+        float vFOVInRads = 2 * Mathf.Atan(Mathf.Tan(hFOVInRads / 2) / aspectRatio);
+        float vFOV = vFOVInRads * Mathf.Rad2Deg;
+        return vFOV;
+    }
+}
+```
 
 ## 在Unity中在不改变音高的前提下改变音频片段的播放速度
 
@@ -30,21 +68,15 @@ tag:
     1. 将Audio Source的pitch参数乘x
     2. 将Pitch Shifter的pitch参数除x
 
----
-
 ## 在Unity C# Scripts中使用event系统
 
 1. [【Unity3D技巧】在Unity中使用事件/委托机制（event/delegate）进行GameObject之间的通信](https://www.cnblogs.com/neverdie/p/Unity3D_event_delegate_1.html)
 2. [【Unity3D技巧】在Unity中使用事件/委托机制（event/delegate）进行GameObject之间的通信 (二) : 引入中间层NotificationCenter](https://www.cnblogs.com/neverdie/p/3790879.html)
 
----
-
 ## 在Unity C# Scripts中StartCoroutine/yield return这个模式到底是怎么应用的？其中的原理是什么
 
 1. [Coroutine，你究竟干了什么](https://blog.csdn.net/tkokof1/article/details/11842673)
 2. [Coroutine，你究竟干了什么？（小续）](https://blog.csdn.net/tkokof1/article/details/12834939)
-
----
 
 ## C#中单问号'?'的一种神奇但少见介绍的用法
 
