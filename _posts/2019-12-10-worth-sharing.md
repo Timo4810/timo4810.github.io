@@ -86,7 +86,7 @@ tag:
 玩 *Diva f2* 去了，米娜再见。
 
 ## 2019.4.9
-* [CHANEL 再次起诉二手转卖平台，以及， “令和” 代表色是什么色？| 浮华日报](http://www.qdaily.com/articles/62755.html)
+* [CHANEL 再次起诉二手转卖平台，以及， “令和” 代表色是什么色？\| 浮华日报](http://www.qdaily.com/articles/62755.html)
 
 2019年4月9日12点22分
 
