@@ -22,7 +22,7 @@ mathjax: true
 ## *爱丽丝与巨人* on PC
 
 * A Roguelite Deck Building game. 除音乐和本地化外都是一个人制作的。
-* 美术和故事没得挑，重点说下游戏玩法。
+* 美术和故事很棒。我重点谈下游戏玩法。
 * 游戏玩法建立在*Slay the Spire*引爆的Roguelike DBG基础之上。
     * 相比*Slay the Spire*的纯Roguelike模式，*爱丽丝与巨人*是一款Roguelite的游戏。
     * Roguelite与Roguelike大体相同，唯一的区别是在玩家死亡/一轮游戏结束后玩家有机会使用游戏内的代币进行一些永久有效的升级，使得游戏的难度曲线从直线变成了逐渐变低的曲线。
