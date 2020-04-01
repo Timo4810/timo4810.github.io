@@ -27,6 +27,6 @@ key: page-about
 ---
 
 * [退役的 Shawn Zhou 的博客（已过时）](https://www.cnblogs.com/OIerShawnZhou/)
-* [Shawn Zhou's Blog V2.0](https://shawnzhou.xyz/)
+* [Shawn Zhou's Blog V2.0](https://shawnzhou.world/)
 * [WitherC 的博客（已过时）](http://witherc.top/)
 * [WitherC 的博客](https://blog.csdn.net/qq_40607911)
