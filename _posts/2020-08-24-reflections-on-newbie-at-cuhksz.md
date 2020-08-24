@@ -28,4 +28,4 @@ tag:
 
 ---
 
-*港中深新手村* 下载地址：[港中深新手村 – 人云系统实验室 | Human-Cloud Systems Laboratory](https://hcslab.cuhk.edu.cn/newbie/)
+*港中深新手村* 下载地址：[https://hcslab.cuhk.edu.cn/newbie/](https://hcslab.cuhk.edu.cn/newbie/)
