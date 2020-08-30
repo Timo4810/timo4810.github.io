@@ -177,7 +177,7 @@ int main() {
 	- 用线段树/树状数组维护即可。
 - 时间复杂度 $O( n \log n)$。
 
-```
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -258,7 +258,7 @@ int main() {
 	2. *操作1* 删掉 $a_m$，则 $a_m$ 隔出来的左右两区间都有使用 *操作1* 和 *操作2* 的可能，递归解决即可。
 - 时间复杂度 $O(n^2)$。如果应用 $RMQ$ 算法或者数据结构解决区间最值，则可以优化到 $O( n \log n)$ 或者 $O( n)$。
 
-```
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
