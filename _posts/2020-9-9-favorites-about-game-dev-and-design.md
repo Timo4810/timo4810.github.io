@@ -11,6 +11,9 @@ tag:
 <!--more-->
 
 ---
+### [Scene Fusion](https://www.kinematicsoup.com/scene-fusion/pricing)
+- Unity / Unreal 多人实时同步场景编辑（用 Google Doc 的协作方式编辑场景）。
+- 两人免费。
 
 ### [积极玩法与消极玩法](https://indienova.com/indie-game-development/positive-and-negative-gameplay/)
 
