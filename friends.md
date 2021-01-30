@@ -25,9 +25,4 @@ titles:
   # @end locale config
 key: page-about
 ---
-#* [Schrodinger's Utopia](https://zhuyi.fan/)
-#* [Outvi V](https://outv.im/)
-#* [ShawnZhou的小站](https://shawnzhou.world/)
-#* [WitherC 的博客](https://blog.csdn.net/qq_40607911/)
-#* [退役的 Shawn Zhou 的博客（已过时）](https://www.cnblogs.com/OIerShawnZhou/)
-#* [WitherC 的博客（已过时）](http://witherc.top/)
+* [Okami Wong](https://okamiwong.github.io/)
