@@ -1,6 +1,6 @@
 ---
 layout: article
-title: attitude_to_architecture
+title: 对建筑的一些认识
 tag:
     - 认识
 ---
