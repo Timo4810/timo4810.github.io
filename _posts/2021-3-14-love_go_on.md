@@ -1,8 +1,8 @@
 ---
-layout: 无
-title: 收益
+layout: article
+title: 无
 tag:
-    - 认识
+    - 记录
 ---
 
 JUU2JTg4JTkxJUU3JTlBJTg0JUU3JTg4JUIxJUU2JTgzJTg1
