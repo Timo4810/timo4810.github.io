@@ -26,3 +26,5 @@ titles:
 key: page-about
 ---
 * [Okami Wong](https://okamiwong.github.io/)
+
+* [Lingfei Cheng](https://fail.lingfei.xyz/)
